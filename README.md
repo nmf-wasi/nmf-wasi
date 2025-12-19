@@ -1,5 +1,5 @@
 I am a passionate and motivated individual with a deep interest in programming languages and data structures. 
-Currently, I am advancing my skills in C and C++, and I’m also actively learning HTML, CSS, and different data structures. 
+Currently, I am advancing my skills in C and C++, and I’m also actively learning Python, Java, and different data structures. 
 My enthusiasm for coding extends to participating in competitions, where I am at a beginner level but eager to grow. 
 
 
